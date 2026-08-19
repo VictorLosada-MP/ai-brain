@@ -42,4 +42,4 @@ Responde ÚNICAMENTE con el siguiente JSON (sin texto adicional fuera del JSON):
   "decision": "Aprobado" | "No aprobado",
   "justificacion_decision": "máximo 2-3 líneas basadas en el conjunto de respuestas"
 }
-`;
+`; 
